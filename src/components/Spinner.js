@@ -5,7 +5,7 @@ export class Spinner extends Component {
         return (
             <div className="d-flex justify-content-center">
                 <div className="spinner-border text-dark" role="status">
-                <span className="visually-hidden">Loading...</span>
+                <span className="visually-hidden my-3">Loading...</span>
                 </div>
             </div>
         )
